@@ -1,4 +1,5 @@
-print ('Olá, Mundo!')
+msg = 'Olá, Mundo!'
+print (msg)
 
 print(7+4)
 
