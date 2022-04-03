@@ -17,3 +17,4 @@ print('Alfanumérico?', x.isalnum())
 print('Maiúsculo?', x.isupper())
 print('Minúsculo?', x.islower())
 print('Espaços?', x.isspace())
+print('Capitalizada?', x.istitle()) # maiúsculas e minúsculas
