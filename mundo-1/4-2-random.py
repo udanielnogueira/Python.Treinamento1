@@ -15,4 +15,4 @@ m = random.randint(1, 10)
 
 print(n)
 print(m)
-print(emoji.emojize('I love Python :snake:', language='alias'))
+print(emoji.emojize('I love Python :alien:', language='alias'))
