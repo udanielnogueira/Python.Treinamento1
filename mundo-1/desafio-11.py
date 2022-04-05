@@ -19,5 +19,5 @@ a = l * h
 
 t = a / 2
 
-print(f'Área da parede: {a}')
-print(f'Litro(s) de tinta necessário(s): {t:.2f}')
+print(f'Área: {a}m²')
+print(f'Tinta necessária: {t:.2f}l')

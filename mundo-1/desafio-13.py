@@ -6,7 +6,7 @@ seu novo salário. com
 15% de aumento.
 '''
 
-s = float(input('Salário: '))
+s = float(input('Salário: R$ '))
 
 a = s * 0.15
 

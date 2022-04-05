@@ -8,8 +8,11 @@ Dólares ela pode
 comprar.
 '''
 
-c = float(input('Insira qual valor você tem na carteira: '))
+c = float(input('Quanto você tem na carteira: R$ '))
 
-d = c / 4.6
+# April 5th, 2022
+d = c / 4.62
+e = c / 5.06
 
-print(f'Você pode comprar {d:.2f} dólares')
+print(f'Você pode comprar $ {d:.2f}') # ou US$
+print(f'Você pode comprar € {e:.2f}')

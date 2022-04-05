@@ -11,5 +11,5 @@ n = int(input('Digite um número: '))
 s = n + 1
 a = n - 1
 
-print('Sucessor: {}' .format(s))
-print('Antecessor: {}' .format(a))
+print('Sucessor: {}' .format(s)) # n+1 também daria certo
+print('Antecessor: {}' .format(a)) # n-1 também daria certo
