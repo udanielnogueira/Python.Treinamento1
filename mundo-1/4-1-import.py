@@ -2,7 +2,7 @@
 import math
 math.sqrt()
 
-from math import sqrt
+from math import sqrt, ...
 sqrt()
 
 math.sqrt() raiz quadrada
