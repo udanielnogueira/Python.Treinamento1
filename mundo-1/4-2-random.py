@@ -1,15 +1,18 @@
 '''
-docs.python.org/3/library/index.html
 pypi.org/
+docs.python.org/3/library/index.html
 
-random.random() aleatório entre 0 e 1
-random.randint(x,y) aleatório entre inteiros
+https://pypi.org/project/emoji/
+https://www.webfx.com/tools/emoji-cheat-sheet/
+http://www.unicode.org/emoji/charts/full-emoji-list.html
 '''
 
 import random
+import emoji # installed using PIP 
 
 n = random.random()
 m = random.randint(1, 10)
 
 print(n)
 print(m)
+print(emoji.emojize('I love Python :snake:', language='alias'))
