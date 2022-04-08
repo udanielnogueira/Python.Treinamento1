@@ -17,4 +17,4 @@ n = int(input('Digite um número '))
 
 r = sqrt(n)
 
-print(f'Raiz quadrada: {trunc(r):.2f}') 
+print(f'Raiz quadrada: {r:.2f}') 
