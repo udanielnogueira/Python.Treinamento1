@@ -11,4 +11,4 @@ from math import trunc
 
 n = float(input('Número real: '))
 
-print(f'Parte inteira: {trunc(n)}')
+print(f'Parte inteira: {trunc(n)}') # ou fazer sem a lib math, int(n)

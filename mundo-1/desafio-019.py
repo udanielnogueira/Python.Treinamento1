@@ -20,4 +20,6 @@ lista = [n1, n2, n3, n4]
 
 x = random.choice(lista)
 
+# usamos o método choice da classe random
+
 print(f'Aluno(a) sorteado(a): {x}')

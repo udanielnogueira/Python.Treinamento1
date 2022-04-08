@@ -14,4 +14,6 @@ import math
 co = float(input('Cateto Oposto: '))
 ca = float(input('Cateto Adjacente: '))
 
-print(f'Hipotenusa: {math.hypot(ca, co):.3f}')
+h = math.hypot(co, ca)
+
+print(f'Hipotenusa: {h:.2f}')
