@@ -14,10 +14,14 @@ Em que posição ela
 aparece a última vez.
 '''
 
-f = input('Digite uma frase: ')
+f = input('Digite uma frase: ').strip()
 
-i = 0
-while i < len(f):
-    if f[i] == 'a' or f[i] == 'A':
-        print(f'a na posição {i}')
-    i = i+1
+f1 = f.upper().replace('Á', 'A').replace('Ã', 'A').replace('Â', 'A')
+
+# print(f1)
+
+print(f'A letra a aparece {f1.count("A")} vezes na frase.')
+
+print(f'Primeira posição de a: {f1.find("A")}')
+
+print(f'A última posição de a: {f1.rfind("A")}')

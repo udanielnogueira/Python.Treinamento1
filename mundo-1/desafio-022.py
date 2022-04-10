@@ -17,7 +17,7 @@ Quantas letras tem o
 primeiro nome.
 '''
 
-nome = input('Digite seu nome: ')
+nome = input('Digite seu nome: ').strip() # elimina espaços antes e depois
 
 print(nome.upper())
 

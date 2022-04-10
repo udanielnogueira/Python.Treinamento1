@@ -8,9 +8,9 @@ saguida o primeiro e o
 saparadamante.
 '''
 
-n = input('Digite seu nome: ')
+n = input('Digite seu nome: ').strip()
 
 s = n.split()
 
 print('Primeiro nome:', s[0])
-print('Último nome:', s[len(s)-1])
+print('Último nome:', s[len(s)-1]) # ou s[-1]

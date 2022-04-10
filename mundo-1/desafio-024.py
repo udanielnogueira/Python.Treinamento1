@@ -6,7 +6,7 @@ começa ou não com o
 nome "SANTO".
 '''
 
-c = input('Digite o nome da cidade: ')
+c = input('Digite o nome da cidade: ').strip()
 
 c = c.split()
 
