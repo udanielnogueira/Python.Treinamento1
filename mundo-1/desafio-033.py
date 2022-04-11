@@ -5,10 +5,11 @@ e mostre qual é o maior
 e qual é o menor.
 '''
 
-n0 = int(input('n1: '))
-n1 = int(input('n2: '))
-n2 = int(input('n3: '))
+a = int(input('a: '))
+b = int(input('b: '))
+c = int(input('c: '))
 
+'''
 lista = [n0, n1, n2]
 
 if lista[0] > lista[1]:
@@ -25,3 +26,23 @@ else:
 
 print('O maior é:', lista[2])
 print('O menor é:', lista[0])
+'''
+
+# descobrindo o menor
+if a<b and a<c:
+    menor = a
+elif b<a and b<c:
+    menor = b
+else:
+    menor = c
+
+# descobrindo o maior
+if a>b and a>c:
+    maior = a
+elif b>a and b>c:
+    maior = b
+else:
+    maior = c
+
+print('O menor é:', menor)
+print('O maior é:', maior)

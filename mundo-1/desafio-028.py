@@ -17,9 +17,14 @@ perdeu.
 
 import random
 
+from time import sleep
+
 x = random.randint(0, 5)
 
 n = int(input('Tente advinhar um número de 0 a 5: '))
+
+print('Processando...')
+sleep(2)
 
 if n > 5:
     print('Opção inválida')

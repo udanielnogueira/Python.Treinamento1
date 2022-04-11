@@ -22,3 +22,9 @@ elif (zero == False) and n % 4 == 0:
     print('Ano bissexto') # zero False
 else:
     print('Ano não é bissexto')
+
+'''
+Outra lógica:
+
+if a % 4 == 0 or a % 400 == 0 and a % 100 != 0
+'''

@@ -8,9 +8,9 @@ formar um triângulo.
 
 '''
 
-r1 = int(input('reta 1: '))
-r2 = int(input('reta 2: '))
-r3 = int(input('reta 3: '))
+r1 = float(input('reta 1: '))
+r2 = float(input('reta 2: '))
+r3 = float(input('reta 3: '))
 
 '''
 Condição de existência de um triângulo
