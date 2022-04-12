@@ -8,3 +8,4 @@
  - Utilizando Módulos
  - Manipulando Texto
  - Condições (Parte 1)
+ - Cores no Terminal
