@@ -2,10 +2,16 @@
  Python based on "Curso em Vídeo" classes.
 
 ## Mundo 1
- - Primeiros Comandos
- - Tipos Primitivos e Saída de Dados
- - Operadores Aritméticos
- - Utilizando Módulos
- - Manipulando Texto
- - Condições (Parte 1)
- - Cores no Terminal
+ - First Commands
+ - Primitive Types
+ - Arithmetic Operators
+ - Modules
+ - Strings
+ - Conditions 
+ - Terminal Colors
+
+## Mundo 2
+ - Nested Conditions
+ - For Loops
+ - While Loops
+ - Break
