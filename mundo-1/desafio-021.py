@@ -1,8 +1,6 @@
 '''
-Faça um programa
-em Python que abra e
-reproduza o Áudio de
-um arquivo MP3.
+Faça um programa em Python que abra e
+reproduza o Áudio de um arquivo MP3.
 '''
 import pygame
 

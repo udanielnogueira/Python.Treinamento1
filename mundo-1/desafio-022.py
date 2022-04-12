@@ -1,20 +1,11 @@
 '''
-Crie um programa
-que leia o nome
-completo de uma
-pessoa e mostre:
+Crie um programa que leia o nome
+completo de uma pessoa e mostre:
 
-O nome com todas as
-letras maiúsculas.
-
-O nome com todas as
-letras minúsculas.
-
-Quantas letras ao todo 
-(sem considerar espaços).
-
-Quantas letras tem o
-primeiro nome.
+O nome com todas as letras maiúsculas.
+O nome com todas as letras minúsculas.
+Quantas letras tem o seu primeiro nome.
+Quantas letras tem sem considerar espaços.
 '''
 
 nome = input('Digite seu nome: ').strip() # elimina espaços antes e depois

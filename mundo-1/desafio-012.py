@@ -1,13 +1,8 @@
 '''
-Faça um algoritmo
-que leia o preço de um
-produto e mostre seu
-novo preço, com 5% de
-desconto.
+Faça um algoritmo que leia o preço de um produto
+e mostre seu novo preço, com 5% de desconto.
 
------------
-15% de 875
------------
+15% de 875:
 875*15/100 ou 875*0,15
 '''
 

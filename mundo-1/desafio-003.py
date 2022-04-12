@@ -1,5 +1,5 @@
 '''
-Crie um script Python qua leia dois números 
+Crie um script Python qua leia dois números
 e tente mostrar a soma entre elas.
 '''
 

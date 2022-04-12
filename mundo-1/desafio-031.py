@@ -1,14 +1,8 @@
 '''
-Dasenvolva um
-programa que
-pergunte a distância
-de uma viagem em Km.
-Calcule o preço da
-passagam, cobrando
-RS0.50 por Km para
-viagens da até 200Km
-a RS0.45 para viagens
-mais longas.
+Desenvolva um programa que pergunte a distância de uma 
+viagem em Km. Calcule o preço da passagam, cobrando
+R$0.50 por Km para viagens de até 200Km e R$0.45 
+para viagens mais longas.
 '''
 
 d = float(input('Distância: '))

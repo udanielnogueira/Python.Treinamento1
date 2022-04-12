@@ -1,11 +1,7 @@
 '''
-Faça um programa
-que leia o nome
-completo de uma
-pessoa, mostrando em
-saguida o primeiro e o
-último nome
-saparadamante.
+Faça um programa que leia o nome completo de
+uma pessoa, mostrando em seguida o primeiro
+e o último nome separadamante.
 '''
 
 n = input('Digite seu nome: ').strip()

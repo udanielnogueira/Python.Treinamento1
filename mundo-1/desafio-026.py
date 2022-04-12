@@ -1,17 +1,9 @@
 '''
-Faça um programa
-que leia uma frase pelo
-teclado e mostre:
+Faça um programa que leia uma frase pelo teclado e mostre:
 
-Quantas vezes
-aparece a letra "A".
-
-Em que posição ela
-aparece a primeira
-vez.
-
-Em que posição ela
-aparece a última vez.
+Quantas vezes aparece a letra "A".
+Em que posição ela aparece a primeira vez.
+Em que posição ela aparece a última vez.
 '''
 
 f = input('Digite uma frase: ').strip()

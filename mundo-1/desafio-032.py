@@ -1,8 +1,6 @@
 '''
-Faça um programa
-que leia um ano
-qualquer e mostra se
-ela é BISSEXTO.
+Faça um programa que leia um ano
+qualquer e mostra se ele é BISSEXTO.
 
 https://mundoeducacao.uol.com.br/matematica/anos-bissextos.htm
 '''
@@ -11,8 +9,8 @@ a = (input('Ano: '))
 
 n = int(a)
 
-zero = a[-1] == '0' and a[-2] == '0'
 # diz se tem 00 no final
+zero = a[-1] == '0' and a[-2] == '0'
 
 print(zero)
 

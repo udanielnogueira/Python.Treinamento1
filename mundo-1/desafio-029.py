@@ -1,17 +1,9 @@
 '''
-Escreva um
-programa que leia a
-velocidade de um
-carro.
+Escreva um programa que leia a velocidade de
+um carro. Se ele ultrapassar 80km/h, mostre
+uma mensagam dizendo que ele foi multado.
 
-Sa ele ultrapassar
-80km/h, mostre uma
-mensagam dizendo
-que ele foi multado.
-
-A multa vai custar
-RS7.00 por cada Km
-acima do limite.
+A multa custa R$7.00 por cada Km acima.
 '''
 
 v = float(input('Velovidade do carro: '))

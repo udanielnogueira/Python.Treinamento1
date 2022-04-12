@@ -1,11 +1,6 @@
 '''
-Crie um programa
-que leia quanto
-dinheiro uma pessoa
-tem na carteira e
-mostra quantos
-Dólares ela pode
-comprar.
+Crie um programa que leia quanto dinheiro uma pessoa tem
+na carteira e mostra quantos Dólares ela pode comprar.
 '''
 
 c = float(input('Quanto você tem na carteira: R$ '))
