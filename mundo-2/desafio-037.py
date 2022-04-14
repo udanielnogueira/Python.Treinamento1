@@ -25,4 +25,4 @@ elif o == '3':
 else:
     print('Opção inválida')
 
-# ou usar bin(n) oct(n) hex(n)
+# ou usar bin(n)[2:] oct(n)[2:] hex(n)[2:]
