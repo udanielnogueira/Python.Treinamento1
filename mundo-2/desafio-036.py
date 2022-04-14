@@ -7,15 +7,15 @@ que ela não pode exceder 30% do salário ou então o
 empréstimo será negado.
 '''
 
-v = float(input('Valor: '))
+v = float(input('Valor da casa: '))
 s = float(input('Salário: '))
 a = int(input('Pagará em quantos anos? '))
 
 m = a * 12
  
-p = valor / m
+p = v / m
 
 if p > (s * 0.3):
-    print('Empréstimo negado')
+    print(f'Prestações de R$ {p:.2f}\nEmpréstimo negado.')
 else:
-    print('Empréstimo aceito')
+    print(f'Prestações de R$ {p:.2f}\nEmpréstimo aceito.')
