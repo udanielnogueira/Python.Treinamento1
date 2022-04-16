@@ -3,7 +3,9 @@ Crie um programa que faça o
 computador jogar Jokenpô com você.
 '''
 
-import random, time
+import random
+
+from time import sleep
 
 # Título do jogo
 print('\n', end='')
@@ -23,8 +25,11 @@ c = random.choice(lista)
 
 # Animação
 print('\n', end='')
-print('JO-KEN-PÔ!')
-time.sleep(1.20)
+print('JO')
+sleep(1)
+print('KEN')
+sleep(1)
+print('PO!')
 
 # Análise do vencedor
 if u == '1':
