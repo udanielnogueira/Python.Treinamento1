@@ -29,7 +29,8 @@ print('JO')
 sleep(1)
 print('KEN')
 sleep(1)
-print('PO!')
+print('PÔ!')
+sleep(1)
 
 # Análise do vencedor
 if u == '1':
