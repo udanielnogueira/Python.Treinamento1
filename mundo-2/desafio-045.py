@@ -27,26 +27,30 @@ print('JO-KEN-PÔ!')
 time.sleep(1.20)
 
 # Análise do vencedor
-if u == '1' and c == '1':
-    print('\nEmpate')
-elif u == '1' and c == '2':
-    print('\nComputador ganhou!')
-elif u == '1' and c == '3':
-    print('\nVocê ganhou!')
-elif u == '2' and c == '2':
-    print('\nEmpate')
-elif u == '2' and c == '1':
-    print('\nVocê ganhou!')
-elif u == '2' and c == '3':
-    print('\nComputador ganhou!')
-elif u == '3' and c == '3':
-    print('\nEmpate')
-elif u == '3' and c == '1':
-    print('\nComputador ganhou!')
-elif u == '3' and c == '2':
-    print('\nVocê ganhou!')
+if u == '1':
+    if c == '1':
+        print('\nEmpate')
+    elif c == '2':
+        print('\nComputador ganhou!')
+    elif c == '3':
+        print('\nVocê ganhou!')
+elif u == '2':
+    if c == '2':
+        print('\nEmpate')
+    elif c == '1':
+        print('\nVocê ganhou!')
+    elif c == '3':
+        print('\nComputador ganhou!')
+elif u == '3':
+    if c == '3':
+        print('\nEmpate')
+    elif c == '1':
+        print('\nComputador ganhou!')
+    elif c == '2':
+        print('\nVocê ganhou!')
 else:
     print('\nOpção inválida')
+    exit()
 
 # Escolhas
 print('\n', end='')
