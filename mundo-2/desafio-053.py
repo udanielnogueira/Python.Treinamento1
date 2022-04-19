@@ -11,7 +11,7 @@ Ex.:
 # recebendo a frase
 f = str(input('Frase: ')).strip()
 
-# removendo os espaços
+# removendo os espaços e colocado em minúsculo
 f1 = f.replace(' ', '').lower()
 
 # lendo o último endereço da frase
