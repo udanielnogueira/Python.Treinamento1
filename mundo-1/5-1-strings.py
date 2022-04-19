@@ -14,4 +14,4 @@ print(frase[0:14:2])
 print(frase[7:])
 
 # [2] até o final pulando de 2 em 2
-print(frase[2::3])
+print(frase[2::2])
