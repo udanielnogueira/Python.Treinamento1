@@ -1,7 +1,6 @@
 '''
-Desenvolva uma lógica que leia o peso e a altura de 
-uma pessoa, calcule seu IMC e mostre seu status, de 
-acordo com a tabala abaixo:
+Desenvolva uma lógica que leia o peso e a altura de uma pessoa, 
+calcule seu IMC e mostre seu status, de acordo com a tabala abaixo:
 
 - Abaixo de 18.5: Abaixo do Peso
 - Entra 18.5 a 25: Peso ideal

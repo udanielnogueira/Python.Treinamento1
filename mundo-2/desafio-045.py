@@ -1,6 +1,5 @@
 '''
-Crie um programa que faça o
-computador jogar Jokenpô com você.
+Crie um programa que faça o computador jogar Jokenpô com você.
 '''
 
 import random

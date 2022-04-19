@@ -1,7 +1,6 @@
 '''
-Elabore um programa que calcula o valor a ser
-pago por um produto, considerando o seu preço 
-normal e a condição de pagamanto:
+Elabore um programa que calcula o valor a ser pago por um produto,
+considerando o seu preço normal e a condição de pagamanto:
 
 - À vista dinheiro ou cheque: 10% de desconto.
 - À vista no cartão: 5% de desconto.

@@ -1,6 +1,5 @@
 '''
-Rafaça o DESAFIO 035 dos triângulos, acrescentando o
-recurso de mostrar que tipo de triângulo será formado:
+Rafaça o DESAFIO 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
 
 - Equilátero: todos os lados iguais.
 - Isóscelas: dois lados iguais.
