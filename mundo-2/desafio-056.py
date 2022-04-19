@@ -8,7 +8,7 @@ Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do p
 
 totalAnos = 0
 anosVelho = 0
-nomeVelho = 'x'
+nomeVelho = 'nenhum'
 mulheresNovas = 0
 
 for pessoa in range(1, 5):
