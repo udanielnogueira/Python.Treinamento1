@@ -10,7 +10,7 @@ from time import sleep
 acertou = False
 tentativas = 0
 
-while acertou == False:
+while acertou == False: # outra forma: while not acertou
     x = random.randint(0, 10)
     n = int(input('Tente advinhar um número de 0 a 10: '))
 

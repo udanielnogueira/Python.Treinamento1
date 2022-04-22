@@ -20,3 +20,14 @@ while i < n:
         print(fib2)
         fib2 = fib1 + fib2
         i = i + 1
+
+'''
+print(fib1, fib2)
+
+while i < n:
+    fib3 = fib1 + fib2
+    print(fib3)
+
+    fib1 = fib2
+    fib2 = fib3
+'''

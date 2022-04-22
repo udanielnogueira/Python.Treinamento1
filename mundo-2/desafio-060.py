@@ -9,6 +9,6 @@ n = int(input('n: '))
 fat = 1
 while n >= 1:
     fat = fat * n
-    n = n-1
+    n = n - 1
 
 print(f'Fatorial: {fat}')

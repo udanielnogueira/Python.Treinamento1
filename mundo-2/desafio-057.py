@@ -6,3 +6,5 @@ Caso esteja errado, peça a digitação novamente até ter um valor correto.
 sexo = 'A'
 while sexo != 'M' and sexo != 'F':
     sexo = str(input('[M/F] Sexo: ')).upper()
+
+# outra forma: while sexo not in 'MF'
