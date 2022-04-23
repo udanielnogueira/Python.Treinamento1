@@ -1,7 +1,7 @@
 # Python.CursoEmVideo
  Python based on "Curso em Vídeo" classes.
 
-## Mundo 1
+## World 1
  - First Commands
  - Primitive Types
  - Arithmetic Operators
@@ -10,8 +10,16 @@
  - Conditions 
  - Terminal Colors
 
-## Mundo 2
+## World 2
  - Nested Conditions
  - For Loops
  - While Loops
  - Break
+
+## World 3
+ - Tuples
+ - Lists
+ - Dictionaries
+ - Functions
+ - Modules and Packages
+ 
