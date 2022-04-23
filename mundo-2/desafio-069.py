@@ -24,13 +24,14 @@ while True:
     if sexo == 'F' and idade < 20:
         mulheresNovas += 1
     
-    continuar = str(input(('Continuar? [S/N]: '))).upper()
+    continuar = str(input(('Continuar? [S/N]: '))).upper().strip()[0] # ignora outros caracteres
     if continuar == 'S':
         continue
     elif continuar == 'N':
         break
     else:
         print('Opção inválida')
+        break
 
 print(f'Maiores de 18: {maiores}')
 print(f'Homens cadastrados: {homens}')
