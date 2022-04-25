@@ -5,12 +5,10 @@ https://blog.betrybe.com/tecnologia/tuplas-em-python/
 
 jokenpo = ('pedra', 'papel', 'tesoura')
 
-print(jokenpo)
+# sem usar range
+for i, jogada in enumerate(jokenpo):
+    print(f'{jogada} está na posição {i}')
 
-print(jokenpo[0].capitalize())
-
-for jogada in jokenpo:
-    print(f'Vou escolher {jogada}')
-
+# usando range
 for i in range(0, len(jokenpo)):
-    print(jokenpo[i])
+    print(f'{jokenpo[i]} está na posição {i}')
