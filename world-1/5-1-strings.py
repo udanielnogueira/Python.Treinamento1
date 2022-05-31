@@ -7,7 +7,7 @@ print(frase[0])
 print(frase[0:6]) 
 print(frase[:6])
 
-# [0] a [14] pulando de 2 em 2
+# [0] a [13] pulando de 2 em 2
 print(frase[0:14:2]) 
 
 # [7] até o final
