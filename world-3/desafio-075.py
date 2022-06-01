@@ -15,7 +15,7 @@ for i in range(0,4):
 
 tupla = (n[0], n[1], n[2], n[3])
 
-print(type(tupla))
+print(type(tupla)) # verifica se realmente é uma tupla
 print(tupla)
 
 print(f'O número 9 apareceu {tupla.count(9)} vez(es)')

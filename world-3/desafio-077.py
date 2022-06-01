@@ -13,3 +13,5 @@ for palavra in palavras:
         if letra in vogais:
             print(f'{letra} ', end='')
     print()
+
+# if letra.lower() in 'aeiou' seria a melhor solução

@@ -13,13 +13,13 @@ d) Em que posição está o time da Chapecoense.
 
 times = ('Palmeiras', 'Atlético MG', 'Corinthians', 'Coritiba', 'São Paulo', 'Athletico PR', 'Botafogo', 'Flamengo', 'Santos', 'AméricaMG', 'Fluminense', 'Internacional', 'Avaí', 'Bragantino', 'Goiás', 'Cuiabá', 'Atlético GO', 'Juventude', 'Ceará', 'Fortaleza')
 
-for i in range(0,5):
-    print(f'{i+1}º colocado: {times[i]}')
+for i in range(0,5): # ou usar print(times [0:5])
+    print(f'{i+1}º colocado: {times[i]}') 
 
 print()
 
-for i in range(16,20):
-    print(f'{i+1}º colocado: {times[i]}')
+for i in range(16,20): # ou usar print(times [-4:])
+    print(f'{i+1}º colocado: {times[i]}') 
 
 print()
 

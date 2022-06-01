@@ -12,15 +12,17 @@ print(type(numeros))
 
 print(numeros)
 
+# ou usar a função max(numeros)
 maior = 0
 for x in numeros:
     if x > maior:
         maior = x
 
+# ou usar a função min(numeros)
 menor = 100
 for x in numeros:
     if x < menor:
         menor = x
 
-print(f'O maior número da tupla é: {maior}')
-print(f'O menor número da tupla é: {menor}')
+print(f'O maior número da tupla é: {maior}') 
+print(f'O menor número da tupla é: {menor}') 
