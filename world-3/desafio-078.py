@@ -8,8 +8,8 @@ valores = []
 for contador in range(0,5):
     valores.append(int(input(f'[{contador}] = ')))
 
-print(f'Maior valor: {max(valores)} e está na posição {indexof(max(valores))}')
-print(f'Menor valor: {min(valores)}')
-
 for index, valor in enumerate(valores):
-    print(f'{valor} está no endereço {index}')
+    if valor == max(valores):
+        print(f'{max(valores)} está na posição {index}')
+    elif valor == min(valores):
+        print(f'{min(valores)} está na posição {index}')
