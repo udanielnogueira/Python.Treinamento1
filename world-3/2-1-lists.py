@@ -1,5 +1,11 @@
+'''
+Inserindo e removendo elementos da lista
+append(elemento) insert(index, elemento) pop(index) remove(elemento)
+'''
+
 lanches = ['doritos', 'hamburguer', 'batata-frita', 'pudim']
 
+# Verificando o tipo Lista
 print(type(lanches))
 
 def exibir():
@@ -7,16 +13,17 @@ def exibir():
 
 exibir()
 
+# Inserindo elemento na lista
 lanches.append('salgadinho')
 lanches.insert(0, 'piraque')
 
 exibir()
 
-# Remove o último
+# Removendo último elemento
 lanches.pop() 
-# Remove pelo índice
+# Removendo elemento pelo índice
 lanches.pop(2)
-# Remove pelo elemento
+# Removendo elemento pelo elemento
 lanches.remove('piraque')
 
 exibir()

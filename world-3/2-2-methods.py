@@ -1,3 +1,11 @@
+'''
+Função de inserção
+list()
+
+Funções de ordenação e tamanho
+sort() reverse() len()
+'''
+
 def exibir(lista):
     print(lista)
 
@@ -21,5 +29,5 @@ exibir(numeros_tres)
 print(f'Tenho {len(numeros_tres)} elementos na lista 3')
 
 '''
-numeros_tres.reverse() ou numeros_tres.sort(reverse = True)
+reverse() ou sort(reverse = True)
 '''
