@@ -8,7 +8,7 @@ valores = []
 for contador in range(0,5):
     valores.append(int(input(f'[{contador}] = ')))
 
-print(f'Maior valor: {max(valores)}')
+print(f'Maior valor: {max(valores)} e está na posição {indexof(max(valores))}')
 print(f'Menor valor: {min(valores)}')
 
 for index, valor in enumerate(valores):
