@@ -24,6 +24,6 @@ for valor in valores:
     else:
         impares.append(valor)
 
-print(valores)
-print(pares)
-print(impares)
+print(f'Lista: {valores}')
+print(f'Pares: {pares}')
+print(f'Ímpares: {impares}')
