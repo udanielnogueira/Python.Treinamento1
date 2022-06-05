@@ -15,4 +15,5 @@ for i in range(0,7):
 numeros[0].sort()
 numeros[1].sort()
 
-print(numeros)
+print(numeros[0])
+print(numeros[1])
