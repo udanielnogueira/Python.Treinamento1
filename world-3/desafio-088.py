@@ -21,4 +21,5 @@ for i in range(0,quantidade_jogos):
     numeros.clear()
 
 for i, jogo in enumerate(jogos):
+    jogo.sort()
     print(f'Jogo {i+1}: {jogo}')
