@@ -45,3 +45,7 @@ while True:
     continuar = str(input('\nDeseja continuar? [s/n] ')).upper()
     if continuar == 'N':
         break
+
+'''
+Também poderia fazer alunos.append([nome, [nota1, nota2], media])
+'''
