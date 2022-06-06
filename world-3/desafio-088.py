@@ -5,21 +5,28 @@ composta.
 '''
 
 from random import randint
+from time import sleep
 
 quantidade_jogos = int(input('Jogos a serem gerados? '))
 
 # Uma futura lista de listas 
 jogos = []
 
-# Uma lista
 numeros = []
 
 for i in range(0,quantidade_jogos):
-    for i in range(0,6):
-        numeros.append(randint(1,60))
+    while True:
+        aleatorio = randint(1,60)
+        
+        # Em um mesmo jogo, não há repetição
+        if aleatorio not in numeros:
+            numeros.append(aleatorio)
+        if len(numeros) == 6:
+            break
     jogos.append(numeros[:])
     numeros.clear()
 
 for i, jogo in enumerate(jogos):
     jogo.sort()
     print(f'Jogo {i+1}: {jogo}')
+    sleep(1)
