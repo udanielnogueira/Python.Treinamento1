@@ -1,7 +1,7 @@
 # Python.CursoEmVideo
  Python based on "Curso em Vídeo" classes.
 
-## World 1
+# World 1 🌎
 
 ### First Commands
 
@@ -29,7 +29,7 @@
 
 ### Terminal Colors
 
-## World 2
+# World 2 🌏
 
 ### Nested Conditions
 
@@ -47,7 +47,7 @@
 
 - Challenges 66-71
 
-## World 3
+# World 3 🌍
 
 ### Tuples
 
