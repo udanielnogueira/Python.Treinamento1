@@ -33,20 +33,42 @@
 
 ### Nested Conditions
 
+- Challenges 36-45
+
 ### For Loops
+
+- Challenges 46-56
 
 ### While Loops
 
+- Challenges 57-65
+
 ### Break
+
+- Challenges 66-71
 
 ## World 3
 
 ### Tuples
 
+- Challenges 72-77
+
 ### Lists
+
+- Challenges 78-89
 
 ### Dictionaries
 
+- Challenges 90-95
+
 ### Functions
 
+- Challenges 96-106
+
 ### Modules and Packages
+
+- Challenges 107-112
+
+### Errors and Exception
+
+- Challenges 113-114
