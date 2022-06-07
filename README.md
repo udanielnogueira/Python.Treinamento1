@@ -5,7 +5,7 @@
 
 ### First Commands
 
-- Challenges 1-2
+Challenges 1-2
 
 ### Primitive Types
 
