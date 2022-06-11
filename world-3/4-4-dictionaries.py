@@ -1,6 +1,6 @@
 locadora = [
-    {'titulo':'Star Wars', 'ano':'1977'},
-    {'titulo':'Avengers', 'ano':'2012'}
+    {'titulo':'Star Wars', 'ano':1977},
+    {'titulo':'Avengers', 'ano':2012}
 ]
 
 # append de dicionário
