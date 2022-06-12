@@ -16,10 +16,16 @@ for filme in locadora:
 
 # for da maneira 2
 print('\nFOR DA MANEIRA 2')
-for i, filme in enumerate(locadora):
-    print(f'O {locadora[i]["titulo"]} é do ano de {locadora[i]["ano"]}.')
+for filme in locadora:
+    for k, v in filme.items():
+        print(f'O {k} é {v}')
 
 # for da maneira 3
 print('\nFOR DA MANEIRA 3')
+for i, filme in enumerate(locadora):
+    print(f'O {locadora[i]["titulo"]} é do ano de {locadora[i]["ano"]}.')
+
+# for da maneira 4
+print('\nFOR DA MANEIRA 4')
 for i in range(0, len(locadora)):
     print(f'O {locadora[i]["titulo"]} é do ano de {locadora[i]["ano"]}.')
