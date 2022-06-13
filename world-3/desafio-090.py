@@ -6,11 +6,12 @@ No final, mostre o conteúdo da estrutura na tela.
 alunos = {}
 
 alunos['nome'] = str(input('Nome: '))
-alunos['media'] = float(input('Média: '))
+alunos['média'] = float(input(f'Média de {alunos["nome"]}: '))
 
-if alunos['media'] > 5:
-    alunos['situacao'] = 'Aprovado'
+if alunos['média'] > 5:
+    alunos['situação'] = 'Aprovado'
 else:
-    alunos['situacao'] = 'Reprovado'
+    alunos['situação'] = 'Reprovado'
 
-print(alunos)
+for k, v in alunos.items():
+    print(f'{k.title()} é {v}.')
