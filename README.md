@@ -8,56 +8,36 @@ Primeiros Comandos (desafios 1-2)
 
 Tipos Primitivos (desafios 3-4)
 
-### Operadores Aritméticos (desafios 5-15)
+Operadores Aritméticos (desafios 5-15)
 
-### Módulos (desafios 16-21)
+Módulos (desafios 16-21)
 
-### Strings (desafios 22-27)
+Strings (desafios 22-27)
 
-### Condiçoes (desafios 28-35)
+Condiçoes (desafios 28-35)
 
-### Cores no Terminal
+Cores no Terminal
 
 ## Mundo 2 
 
-### Condições Aninhadas
+Condições Aninhadas (desafios 36-45)
 
-Desafios 36-45
+For (desafios 46-56)
 
-### For 
+While (desafios 57-65)
 
-Desafios 46-56
-
-### While 
-
-Desafios 57-65
-
-### Break
-
-Desafios 66-71
+Break (desafios 66-71)
 
 ## Mundo 3 
 
-### Tuplas
+Tuplas (desafios 72-77)
 
-Desafios 72-77
+Listas (desafios 78-89)
 
-### Listas
+Dicionários (desafios 90-95)
 
-Desafios 78-89
+Funções (desafios 96-106)
 
-### Dicionários
+Módulos e Pacotes (desafios 107-112)
 
-Desafios 90-95
-
-### Funções
-
-Desafios 96-106
-
-### Módulos e Pacotes
-
-Desafios 107-112
-
-### Erros e Exceções
-
-Desafios 113-114
+Erros e Exceções (desafios 113-114)
