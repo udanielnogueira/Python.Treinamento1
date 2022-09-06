@@ -2,7 +2,7 @@
 
 🐍 Programas e mais de 90 desafios que desenvolvi em Python.
 
-## Mundo 1 🌎
+## Mundo 1 
 
 ### Primeiros Comandos
 
@@ -30,7 +30,7 @@ Desafios 28-35
 
 ### Cores no Terminal
 
-## Mundo 2 🌏
+## Mundo 2 
 
 ### Condições Aninhadas
 
@@ -48,7 +48,7 @@ Desafios 57-65
 
 Desafios 66-71
 
-## Mundo 3 🌍
+## Mundo 3 
 
 ### Tuplas
 
