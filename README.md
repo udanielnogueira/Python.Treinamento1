@@ -4,12 +4,9 @@
 
 ## Mundo 1 
 
-### Primeiros Comandos
-Desafios 1-2
+### Primeiros Comandos (desafios 1-2)
 
-### Tipos Primitivos
-
-Desafios 3-4
+### Tipos Primitivos (desafios 3-4)
 
 ### Operadores Aritméticos
 
