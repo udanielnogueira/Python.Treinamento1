@@ -1,5 +1,6 @@
-# Python.CursoEmVideo
- Python based on "Curso em Vídeo" classes.
+# Python.Treinamento1
+
+🐍 Programas e mais de 90 desafios que desenvolvi em Python.
 
 ## World 1 🌎
 
