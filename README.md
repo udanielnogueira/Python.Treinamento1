@@ -4,25 +4,17 @@
 
 ## Mundo 1 
 
-### Primeiros Comandos (desafios 1-2)
+Primeiros Comandos (desafios 1-2)
 
-### Tipos Primitivos (desafios 3-4)
+Tipos Primitivos (desafios 3-4)
 
-### Operadores Aritméticos
+### Operadores Aritméticos (desafios 5-15)
 
-Desafios 5-15
+### Módulos (desafios 16-21)
 
-### Módulos
+### Strings (desafios 22-27)
 
-Desafios 16-21
-
-### Strings
-
-Desafios 22-27
-
-### Condiçoes
-
-Desafios 28-35
+### Condiçoes (desafios 28-35)
 
 ### Cores no Terminal
 
