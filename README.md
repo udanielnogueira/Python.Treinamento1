@@ -2,74 +2,74 @@
 
 🐍 Programas e mais de 90 desafios que desenvolvi em Python.
 
-## World 1 🌎
+## Mundo 1 🌎
 
-### First Commands
+### Primeiros Comandos
 
-Challenges 1-2
+Desafios 1-2
 
-### Primitive Types
+### Tipos Primitivos
 
-Challenges 3-4
+Desafios 3-4
 
-### Arithmetic Operators
+### Operadores Aritméticos
 
-Challenges 5-15
+Desafios 5-15
 
-### Modules
+### Módulos
 
-Challenges 16-21
+Desafios 16-21
 
 ### Strings
 
-Challenges 22-27
+Desafios 22-27
 
-### Conditions 
+### Condiçoes
 
-Challenges 28-35
+Desafios 28-35
 
-### Terminal Colors
+### Cores no Terminal
 
-## World 2 🌏
+## Mundo 2 🌏
 
-### Nested Conditions
+### Condições Aninhadas
 
-Challenges 36-45
+Desafios 36-45
 
-### For Loops
+### For 
 
-Challenges 46-56
+Desafios 46-56
 
-### While Loops
+### While 
 
-Challenges 57-65
+Desafios 57-65
 
 ### Break
 
-Challenges 66-71
+Desafios 66-71
 
-## World 3 🌍
+## Mundo 3 🌍
 
-### Tuples
+### Tuplas
 
-Challenges 72-77
+Desafios 72-77
 
-### Lists
+### Listas
 
-Challenges 78-89
+Desafios 78-89
 
-### Dictionaries
+### Dicionários
 
-Challenges 90-95
+Desafios 90-95
 
-### Functions
+### Funções
 
-Challenges 96-106
+Desafios 96-106
 
-### Modules and Packages
+### Módulos e Pacotes
 
-Challenges 107-112
+Desafios 107-112
 
-### Errors and Exception
+### Erros e Exceções
 
-Challenges 113-114
+Desafios 113-114
