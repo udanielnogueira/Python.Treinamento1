@@ -1,4 +1,4 @@
-# Python.Treinamento1
+# Python.Treinamento
 
 🐍 Programas e mais de 90 desafios que resolvi em Python.
 
