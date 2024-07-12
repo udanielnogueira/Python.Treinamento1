@@ -1,6 +1,6 @@
 '''
-Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de
-Futebol, na ordem da colocação. Depois mostre:
+Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato 
+Brasileiro de Futebol, na ordem da colocação. Depois mostre:
 
 a) Apenas os 5 primeiros colocados.
 
