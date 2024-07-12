@@ -1,6 +1,6 @@
-# Python.Treinamento
+# treinamento-python
 
-🐍 Programas e mais de 90 desafios que resolvi em Python.
+Programas e mais de 90 desafios que resolvi em Python.
 
 ## Mundo 1 
 
