@@ -1,8 +1,8 @@
-# treinamento-python
+# Treinamento Python
 
 Programas e mais de 90 desafios que resolvi em Python.
 
-## Mundo 1 
+## Mundo 1
 
 Primeiros Comandos (desafios 1-2)
 
@@ -18,7 +18,7 @@ Condiçoes (desafios 28-35)
 
 Cores no Terminal
 
-## Mundo 2 
+## Mundo 2
 
 Condições Aninhadas (desafios 36-45)
 
@@ -28,7 +28,7 @@ While (desafios 57-65)
 
 Break (desafios 66-71)
 
-## Mundo 3 
+## Mundo 3
 
 Tuplas (desafios 72-77)
 
